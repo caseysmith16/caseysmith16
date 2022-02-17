@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caseysmith16
-- 👀 I’m interested in telling a story through data. 
+- 👀 I’m interested in telling stories through data. 
 - 🌱 I’m currently learning all things data viz. 
 
 <!---
